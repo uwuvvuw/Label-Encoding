@@ -1,5 +1,5 @@
 # Label-Encoding
-In this jupyter notebook investigates different categorical variable encoding approaches:
+This jupyter notebook investigates different categorical variable encoding approaches:
   - One Hot Encoding
   - Label Encoding
   - Ordinal Encoding
